@@ -1,0 +1,15 @@
+export default {
+  AuthorizedApplication: 'AuthorizedApplication',
+  UnauthorizedApplication: 'UnauthorizedApplication',
+  Home: 'Home',
+  AboutUs: 'AboutUs',
+  Search: 'Search',
+  CreateQuestion: 'CreateQuestion',
+  Profile: 'Profile',
+  UserQuestions: 'UserQuestions',
+  DetailQuestion: 'DetailQuestion',
+  SignUp: 'SignUp',
+  SignIn: 'SignIn',
+  RestorePassword: 'RestorePassword',
+  SignOut: 'SignOut',
+};
